@@ -1,5 +1,5 @@
 <div class="tech-header">
-  <h2 style="text-size: 14px;">Tech Stacks</h2>
+  <h2 style="text-size: 14px; color: red;">Tech Stacks</h2>
 </div>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
