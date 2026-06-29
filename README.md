@@ -16,7 +16,7 @@
 <div class="music-header">
   <h2 style="text-size: 14px;">Spotify Recent Track</h2>
 </div>
-<div data-importer="music" align="center">
+<div data-importer="music" align="left">
   <a href="https://open.spotify.com/user/31xxqqocjbuqav446uizelfq2fz4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xxqqocjbuqav446uizelfq2fz4&count=4" alt="Spotify recently played"  />
   </a>
